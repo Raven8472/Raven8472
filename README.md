@@ -3,7 +3,7 @@
 **IT Student | Navy Veteran | Database Enthusiast | Aspiring Backend & Cloud Developer**
 
 I'm transitioning into tech after years of hands-on work in the U.S. Navy, retail leadership, FedEx delivery, and heavy mechanical/maintenance roles.  
-My strength has always been systems thinking — understanding how things fit together, improving processes, and fixing what’s broken.  
+My strength has always been systems thinking understanding how things fit together, improving processes, and fixing what’s broken.  
 
 Now I apply those same instincts to **software, databases, and backend architecture**.
 
